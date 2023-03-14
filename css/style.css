@@ -1,0 +1,15 @@
+.banner-img-1{
+    background-image: url(../images/carousel/1.jpg);
+    height: 89vh;
+}
+.banner-img-2{
+    background-image: url(../images/carousel/2.jpg);
+    height: 89vh;
+}
+.banner-img-3{
+    background-image: url(../images/carousel/3.jpg);
+    height: 89vh;
+}
+.clint-img{
+    width: 180px;
+}
